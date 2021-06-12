@@ -1,2 +1,3 @@
-##shity kami paste Ish.
+##STUFF
+Commands
 .\gradlew build
